@@ -10,6 +10,6 @@ Web ini dibuat saat mata diklat hmmm. entah lupa kalo gasalah isu kontemporer. P
 
 Mohon maaf jika di dalam konten web ini agak alay atau kurang nyaman. Tidak ada hal khusus, biar bagus aja padahal gak ada apa-apa.
 
-## Thanks to
+## Terimakasih Kepada
 
 https://github.com/ayusharma/birthday
